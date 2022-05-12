@@ -1,0 +1,7 @@
+[2022-05-12 11:15:45.267] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-12 11:15:45.275] [main] [info] update#setState idle
+[2022-05-12 11:15:45.296] [main] [info] ExtensionHostStarterWorker created
+[2022-05-12 11:15:46.633] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-12 11:15:47.024] [main] [info] Starting extension host with pid 2837 (fork() took 9 ms).
+[2022-05-12 11:15:47.024] [main] [info] ExtensionHostStarterWorker.start() took 14 ms.
+[2022-05-12 11:15:52.016] [main] [info] Extension host with pid 2837 exited with code: 0, signal: null.
